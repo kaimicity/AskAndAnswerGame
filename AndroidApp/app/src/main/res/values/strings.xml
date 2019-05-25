@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Answer Me if you can</string>
+    <string name="connect_bluetooth">Turn On Bluetooth</string>
+    <string name="find">Find Devices</string>
+    <string name="pairing">Paired</string>
+    <string name="connected">Connected</string>
+    <string name="hint1">Name of Player1</string>
+    <string name="hint2">Name of Player2</string>
+    <string name="hint3">Number of questions of this round:</string>
+    <string name="wrong_message">Please type in both 2 names!</string>
+    <string name="player1">%1$s</string>
+    <string name="player2">%1$s</string>
+    <string name="questionTime">Start to Vie!</string>
+    <string name="vieTime">Vie Time!</string>
+    <string name="answerTime">Answer Time</string>
+    <string name="phase1">Ask a question</string>
+    <string name="phase2">Vie</string>
+    <string name="phase3">Answer</string>
+    <string name="phase4">Clear</string>
+    <string name="start">GO!</string>
+    <string name="next">Next Question</string>
+    <string name="question_result_draw">No one could answer.</string>
+    <string name="question_result_right">%1$s gives the correct answer and gets one score as award!</string>
+    <string name="question_result_wrong">%1$s gives the wrong answer and %2$s luckily gets one score!</string>
+    <string name="question_result_no">%1$s cannot answer the question and %2$s luckily gets one score!</string>
+</resources>
